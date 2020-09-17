@@ -2,3 +2,5 @@
 Lab0: Setting up github and self-introduction
 ## Intro!
 Please provide a brief self-introduction below (year, hometown, favorite food, anything you would like to share with us!) to help us get to know you a little better :) 
+
+Hi! This is Jane! I am from Gulangyu, China, and my favorite food is sauteed lotus root! 
